@@ -29,7 +29,7 @@
 *### Key Achievements:
                     * Developed complex SQL queries incorporating DISTINCT, COUNT, WHERE, GROUP BY, ORDER BY, HAVING clauses.  
                     * Leveraged SQL functions like AVG, MAX for calculating averages, maximum values, etc.
-                    * Implemented self-joins for correlating data within the same table.
+                                                               * Implemented self-joins for correlating data within the same table.
                     * Optimized query performance for efficient data retrieval.
                     
 
