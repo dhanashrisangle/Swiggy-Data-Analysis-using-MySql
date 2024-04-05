@@ -1,39 +1,39 @@
 # Swiggy-Data-Analysis-using-MySql
 
-*## Project Overview:
+* ## Project Overview:
 
-***  This repository contains SQL queries for analyzing a dataset from Swiggy, a popular food delivery platform.
+ This repository contains SQL queries for analyzing a dataset from Swiggy, a popular food delivery platform.
          
 
-*### Purpose of the Project:
+* ## Purpose of the Project:
                              To demonstrate proficiency in SQL by performing various analyses and queries on a dataset 
                              representing Swiggy, a popular food delivery platform.
 
 
-*### Data Source: 
+* ## Data Source: 
                   The dataset was obtained from google. The dataset contains information about restaurant name, restaurant address,
                   ratings, city, food items, menu catagory, cuisine, price per person, veg or nonveg on Swiggy platform.
 
 
-*## Project Steps:
-*### Data Import:
+* ## Project Steps:
+* ### Data Import:
                  Imported Swiggy data from csv file contaning all the information about restaurants and all.
 
 
-*### SQL Querying:
+* ### SQL Querying:
                   Utilize MySQL to read and manipulate the dataset.
 
                
-*### Data Manipulation:
+* ### Data Manipulation:
                         Used SQL functions and clauses (e.g., DISTINCT, COUNT, WHERE, GROUP BY, ORDER BY, HAVING)
                         to filter, aggregate, and analyze data.
 
 
-*### Skills Demonstrated:
+* ### Skills Demonstrated:
                           SQL, Data Analysis, Query Optimization.
 
 
-*### Key Achievements:
+ ## Key Achievements:
 
                     * Developed complex SQL queries incorporating DISTINCT, COUNT, WHERE, GROUP BY, ORDER BY, HAVING clauses.  
                     
