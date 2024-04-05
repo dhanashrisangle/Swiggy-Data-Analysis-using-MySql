@@ -3,12 +3,15 @@
 * ## Project Overview:
 
  This repository contains SQL queries for analyzing a dataset from Swiggy, a popular food delivery platform.
-         
+ The Swiggy Dataset Analysis project involves analyzing a dataset obtained from Swiggy, a popular food delivery
+ platform. Using SQL queries, various aspects of the dataset are explored to gain insights into restaurant name,
+ restaurant address, ratings, city, food items, menu catagory, cuisine, price per person, veg or nonveg, restaurant
+ performance and more.
 
 * ## Purpose of the Project:
-                             To demonstrate proficiency in SQL by performing various analyses and queries on a dataset 
-                             representing Swiggy, a popular food delivery platform.
-
+                             The primary purpose of the project is to demonstrate proficiency in SQL by performing
+                             data analysis tasks on a real-world dataset.By analyzing the Swiggy dataset, the project
+                             aims to showcase the ability to extract meaningful insights and make data-driven decisions.
 
 * ## Data Source: 
                   The dataset was obtained from google. The dataset contains information about restaurant name, restaurant address,
@@ -42,6 +45,18 @@
                     * Implemented self-joins for correlating data within the same table.
                   
                     * Optimized query performance for efficient data retrieval.
+
+
+## Outputs:
+           The project outputs include SQL queries, analysis results. These outputs provide insights into various aspects of 
+           the Swiggy dataset and can be used for decision-making purposes by stakeholders.
+
+
+## Conclusion:
+              Through this project, the ability to manipulate and analyze data using SQL is demonstrated, along with the capability
+              to derive actionable insights from real-world datasets. The project showcases valuable skills in data analysis, 
+              query optimization, and data-driven decision-making, which are essential in various industries and domains.
+              
                     
 
 
