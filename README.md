@@ -2,7 +2,7 @@
 
 *## Project Overview:
 
-         This repository contains SQL queries for analyzing a dataset from Swiggy, a popular food delivery platform.
+   ---------      This repository contains SQL queries for analyzing a dataset from Swiggy, a popular food delivery platform.
          
 
 *### Purpose of the Project:
